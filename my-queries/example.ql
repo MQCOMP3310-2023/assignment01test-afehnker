@@ -7,5 +7,5 @@
 
 import java
 
-from Ifstmt b
+from IfStmt b
 select b, "This is an if."
